@@ -1,0 +1,11 @@
+# R script you don't want tracked
+accs_analysis.R
+
+# outputs / tables
+correlation plot.png
+correlation_table.doc
+linear_regression_table.doc
+
+# Word temporary file (always safe to ignore these)
+~$*.doc
+.Rproj.user/
