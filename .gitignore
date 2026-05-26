@@ -1,26 +1,15 @@
-# R script you don't want tracked
-accs_analysis.R
-
-# outputs / tables
-correlation plot.png
-correlation_table.doc
-linear_regression_table.doc
-
-# Word temporary file (always safe to ignore these)
-~$*.doc
+# RStudio system files
 .Rproj.user/
-# RStudio files
-.Rproj.user/
-.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 
-# R project file
-Thesis data analysis.Rproj
-
-# analysis script you don't want tracked
-accs_analysis.R
-
-# output / Word files
-linear_regression_table.doc
-
-# Word temporary files
+# temporary Word files
 ~$*
+
+# files you do NOT want in repo
+accs_analysis.R
+linear_regression_table.doc
+
+
+
