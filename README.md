@@ -26,3 +26,4 @@ Data cleaning and analysis were done in R. Script could be found in the code/ fo
 Thesis could be found in the docs/ folder
 
 ## Citation
+https://doi.org/10.5281/zenodo.20403973 
