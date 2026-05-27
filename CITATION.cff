@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Adote"
+  given-names: "Crystal"
+title: "Predictive factors of acculturative stress among Latino/a/x and/or Hispanic college students"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-05-26
+url: "https://github.com/crystalna20/Thesis-Research"
